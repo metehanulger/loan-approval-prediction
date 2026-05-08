@@ -82,10 +82,10 @@ python loan_prediction.py
 ### Output
 
 ```
---- Model Performansı ---
-Doğruluk Skoru (Accuracy): %XX.XX
+--- Model Performance ---
+Accuracy: %XX.XX
 
-Detaylı Rapor:
+Detailed Report:
               precision    recall  f1-score   support
            0       ...
            1       ...
